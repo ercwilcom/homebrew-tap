@@ -1,8 +1,8 @@
 # Written by peeza's Mac release (apps/desktop/mac/homebrew/tap.sh in the app's repository) —
 # edits here are overwritten by the next release.
 cask "peeza" do
-  version "26.10.32"
-  sha256 "3d849fd165f7744b9eaaf624728120381fc220671b98891e7d34f24d1a7de0d4"
+  version "26.11.1"
+  sha256 "63e93335e5a8a17fe2ecfb7c8aebafb3d69694f042cdb78c1e9ce40ffef8ab22"
 
   url "https://github.com/ercwilcom/public/releases/download/mac-v#{version}/peeza-#{version}.dmg"
   name "peeza"
